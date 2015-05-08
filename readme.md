@@ -14,6 +14,7 @@
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
 - [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
 - [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
+- [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
 
 ## Learning Resources
 
