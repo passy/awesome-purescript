@@ -21,6 +21,9 @@
 - [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 
+## Discovery
+
+- [Pursuit](http://pursuit.purescript.org/)
 
 ## Contribute
 
