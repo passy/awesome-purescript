@@ -25,6 +25,13 @@
 
 - [Pursuit](http://pursuit.purescript.org/)
 
+## Community
+
+- [`/r/purescript` subreddit](http://www.reddit.com/r/purescript)
+- [`#purescript` on Freenode](http://webchat.freenode.net/?channels=purescript)
+- [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
+- [Google Group](https://groups.google.com/forum/#!forum/purescript)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
