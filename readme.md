@@ -9,6 +9,11 @@
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
 
+## Preludes
+
+- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude
+- [purescript-preface](https://github.com/paf31/purescript-preface) - A simpler alternative to the Prelude
+
 ## UI Libraries
 
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
