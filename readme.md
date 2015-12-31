@@ -24,6 +24,11 @@
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
 
+## Asynchronicity and Parallelism
+
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
+
 ## Testing
 
 - [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
