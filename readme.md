@@ -5,6 +5,7 @@
 ## Build Tooling
 
 - [pulp](https://github.com/bodil/pulp)
+- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript)
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
