@@ -45,7 +45,11 @@
 
 ## Discovery
 
-- [Pursuit](http://pursuit.purescript.org/)
+- [Pursuit](https://pursuit.purescript.org/)
+
+## Editor and IDE Plugins
+
+See (Editor and tool support)[https://github.com/purescript/purescript/wiki/Editor-and-tool-support]
 
 ## Community
 
