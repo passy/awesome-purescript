@@ -42,6 +42,8 @@
 - [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
+- [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
+- [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
 
 ## Discovery
 
