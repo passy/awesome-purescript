@@ -51,7 +51,7 @@
 
 ## Editor and IDE Plugins
 
-See (Editor and tool support)[https://github.com/purescript/purescript/wiki/Editor-and-tool-support]
+See [Editor and tool support](https://github.com/purescript/purescript/wiki/Editor-and-tool-support)
 
 ## Community
 
