@@ -60,6 +60,10 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 - [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
 - [Google Group](https://groups.google.com/forum/#!forum/purescript)
 
+## More Resources
+
+- [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
