@@ -5,6 +5,7 @@
 ## Build Tooling
 
 - [pulp](https://github.com/bodil/pulp)
+- [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager
 - [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript)
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
