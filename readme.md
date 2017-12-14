@@ -31,6 +31,10 @@
 - [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
 - [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
+## Effect Management
+
+- [purescript-eff](https://github.com/purescript/purescript-eff) - The Eff monad, for handling native side effects.
+
 ## Testing
 
 - [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
