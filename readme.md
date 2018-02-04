@@ -26,6 +26,13 @@
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
 
+## Components
+
+- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
+- [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - A Halogen integration for the popular ECharts charting library
+- [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen
+- [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - Interactive menus in Halogen
+
 ## Asynchronicity and Parallelism
 
 - [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
