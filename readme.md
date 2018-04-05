@@ -10,6 +10,7 @@
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript)
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
 
 ## Preludes
 
@@ -19,12 +20,43 @@
 
 ## UI Libraries
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
-- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
+CSS:
+
 - [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
+
+React-based:
+
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
+- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript
+- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
+- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript.
+- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others.
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations!
 - [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
+- [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs.
+
+Virtual-DOM based:
+
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
+
+Signals/Behaviors/FRP:
+
 - [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
+- [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP.
+- [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom.
+- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM?
+- [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript.
+- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing.
+- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus.
+
+## URL Routers
+
+- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript.
+- [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor.
+- [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript.
+- [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all!
 
 ## Components
 
