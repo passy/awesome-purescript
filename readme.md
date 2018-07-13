@@ -58,12 +58,30 @@ Signals/Behaviors/FRP:
 - [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript.
 - [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all!
 
-## Components
+## Halogen Components
 
-- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
 - [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - A Halogen integration for the popular ECharts charting library
 - [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen
 - [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - Interactive menus in Halogen
+- [purescript-halogen-calendar-datepicker](https://github.com/twitchard/purescript-halogen-calendar-datepicker)
+- [purescript-colorpalettepicker-halogen](https://github.com/slamdata/purescript-colorpalettepicker-halogen) - Color Palette picking
+- [purescript-halogen-datepicker](https://github.com/slamdata/purescript-halogen-datepicker) - Pickers for Date, Time, DateTime, Duration, and Interval
+- [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - provides `DayPicker` and `DayPickerInput` components
+- [purescript-halogen-filepicker](https://github.com/zudov/purescript-halogen-filepicker) - Helper functions for handling file uploads
+- [purecript-ace-halogen](https://github.com/slamdata/purescript-ace-halogen) a component for the [Ace editor](https://ace.c9.io/)
+- [purescript-halogen-autocomplete](https://github.com/kRITZCREEK/purescript-halogen-autocomplete) - Simple autocomplete component for Halogen
+- [purescript-halogen-dialog](https://github.com/brunjlar/purescript-halogen-dialog) - support for modal dialogs
+- [purescript-halogen-html-component](https://github.com/garyb/purescript-halogen-html-component) - encapsulates a region of arbitrary HTML
+- [purescript-js-barcode-halogen](https://github.com/narinari/purescript-js-barcode-halogen) - Component for JsBarcode
+- [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - a reusable Halogen component that presents an interactive menu
+ - [purescript-halogen-tooltip](https://github.com/MonoidMusician/purescript-halogen-tooltip) - simple tooltip component that proxies input into and out of a wrapped component, maintaining its hover state internally.
+- [purescript-halogen-zuruzuru](https://github.com/MonoidMusician/purescript-halogen-zuruzuru) - A simple list reordering component, drag-and-drop style
+
+### Renderless Components
+
+- [purescript-halogen-renderless](https://github.com/thomashoneyman/purescript-halogen-renderless) - Helper functions and templates for building renderless components in Halogen
+- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
+- [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) - A renderless component for painless forms in Halogen
 
 ## Asynchronicity and Parallelism
 
