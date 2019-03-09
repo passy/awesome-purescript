@@ -27,7 +27,6 @@ React-based:
 
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript
-- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
 - [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
