@@ -59,6 +59,7 @@ Signals/Behaviors/FRP:
 
 ## Components
 
+- [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) - A renderless component for building painless forms in Halogen
 - [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
 - [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - A Halogen integration for the popular ECharts charting library
 - [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen
@@ -103,6 +104,7 @@ Signals/Behaviors/FRP:
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
 - [Course (egghead.io) - Functional Programming Concepts in Purescript](https://egghead.io/courses/functional-programming-concepts-in-purescript)
+- [Guide - Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen)
 
 ## Discovery
 
