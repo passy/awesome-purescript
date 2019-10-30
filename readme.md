@@ -11,6 +11,7 @@
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
 - [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
+- [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
 
 ## Preludes
 
