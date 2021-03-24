@@ -57,6 +57,7 @@ Signals/Behaviors/FRP:
 - [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor.
 - [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript.
 - [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all!
+- [purescript-routing-duplex](https://github.com/natefaubion/purescript-routing-duplex) - Simple bidirectional parser/printers for your routing data types.
 
 ## Components
 
