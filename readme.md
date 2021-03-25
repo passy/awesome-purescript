@@ -40,7 +40,8 @@ React-based:
 Virtual-DOM based:
 
 - [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
-- [utkarshkukreti/purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
+- [purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
+- [purescript-flame](https://github.com/easafe/purescript-flame) - Flame is a fast & simple framework for building web applications in PureScript inspired by purescript-hedwig and Elm
 
 Signals/Behaviors/FRP:
 
