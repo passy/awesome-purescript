@@ -40,6 +40,7 @@ React-based:
 Virtual-DOM based:
 
 - [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
+- [utkarshkukreti/purescript-hedwig](https://github.com/utkarshkukreti/purescript-hedwig) - Hedwig is a fast, type safe, declarative PureScript library for building web applications.
 
 Signals/Behaviors/FRP:
 
