@@ -91,6 +91,9 @@ Signals/Behaviors/FRP:
 
 - [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) - Bindings to the ArrayBuffer JavaScript type.
 - [purescript-arraybuffer-class](https://github.com/athanclark/purescript-arraybuffer-class) - Typeclasses for ArrayBuffer encoding and decoding.
+- [purescript-arraybuffer-builder](https://github.com/jamesdbrock/purescript-arraybuffer-builder) - Builder for serializing ArrayBuffer
+- [purescript-parsing-dataview](https://github.com/jamesdbrock/purescript-parsing-dataview) - Parser for deserializing ArrayBuffer
+- [purescript-protobuf](https://github.com/xc-jp/purescript-protobuf) - Google Protocol Buffers
 
 ## Testing
 
