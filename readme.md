@@ -82,6 +82,10 @@ Signals/Behaviors/FRP:
 - [purescript-eff](https://github.com/purescript/purescript-eff) - The Eff monad, for handling native side effects.
 - [purescript-effect](https://github.com/purescript/purescript-effect) - The Effect monad, for handling native side effects in PureScript v0.12.x.
 
+## Haskell -> Purescript Translation
+
+- [purescript-bridge](https://github.com/eskimor/purescript-bridge) - Translate Haskell types to Purescript types; works well together with other Purescript serialization libraries
+
 ## Json Serialization
 
 - [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) - Json encoding and decoding typeclasses.
