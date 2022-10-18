@@ -22,7 +22,8 @@
 
 CSS:
 
-- [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
+- [purescript-tecton](https://github.com/nsaunders/purescript-tecton) - CSS in PureScript
+- [purescript-css](https://github.com/purescript-contrib/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
 
 React-based:
 
