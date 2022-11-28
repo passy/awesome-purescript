@@ -126,6 +126,7 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 
 - [`/r/purescript` subreddit](http://www.reddit.com/r/purescript)
 - [`#purescript` on Freenode](http://webchat.freenode.net/?channels=purescript)
+- [`#purescript:matrix.org`](https://matrix.to/#/#purescript:matrix.org)
 - [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
 - [Google Group](https://groups.google.com/forum/#!forum/purescript)
 
