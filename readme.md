@@ -125,7 +125,7 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 ## Community
 
 - [`/r/purescript` subreddit](http://www.reddit.com/r/purescript)
-- [`#purescript` on Freenode](http://webchat.freenode.net/?channels=purescript)
+- `#purescript` on Libera.Chat ([web](https://web.libera.chat/?channels=#purescript), [lightweight web](https://web.libera.chat/gamja/?channels=%23purescript))
 - [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
 - [Google Group](https://groups.google.com/forum/#!forum/purescript)
 
