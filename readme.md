@@ -12,6 +12,7 @@
 - [purs-loader](https://github.com/ethul/purs-loader) for webpack
 - [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets
+- purs-nix ([GitHub](https://github.com/purs-nix/purs-nix), [Codeberg](https://codeberg.org/purs-nix/purs-nix)) – A tool for Nix-based PureScript development. It comes with both a Nix API, as well as a CLI you can use for development.
 
 ## Preludes
 
