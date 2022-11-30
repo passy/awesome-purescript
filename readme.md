@@ -29,7 +29,7 @@ React-based:
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
-- [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
+- [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An alternative way to define React components using React’s _hooks_ APIs. Compatible with `purescript-react-basic`.
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript.
 - [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others.
@@ -104,9 +104,9 @@ Signals/Behaviors/FRP:
 
 ## Learning Resources
 
-- [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
-- [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference)
+- [Video - “PureScript (Maybe This Time We Get JavaScript Right)” by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
+- [Book - “PureScript by Example” by Phil Freeman](https://leanpub.com/purescript/read)
+- [Book (ish) - Jordan’s Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference)
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
