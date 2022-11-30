@@ -82,10 +82,10 @@ Signals/Behaviors/FRP:
 - [purescript-eff](https://github.com/purescript/purescript-eff) - The Eff monad, for handling native side effects.
 - [purescript-effect](https://github.com/purescript/purescript-effect) - The Effect monad, for handling native side effects in PureScript v0.12.x.
 
-## Json Serialization
+## JSON Serialization
 
-- [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) - Json encoding and decoding typeclasses.
-- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - Json encoding and decoding through Generics.
+- [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) - JSON encoding and decoding typeclasses.
+- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - JSON encoding and decoding through Generics.
 
 ## Binary Serialization
 
@@ -106,11 +106,11 @@ Signals/Behaviors/FRP:
 
 - [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference)
+- [Book (ish) - Jordan's PureScript Reference](https://github.com/JordanMartinez/purescript-jordans-reference)
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
-- [Course (egghead.io) - Functional Programming Concepts in Purescript](https://egghead.io/courses/functional-programming-concepts-in-purescript)
+- [Course (egghead.io) - Functional Programming Concepts in PureScript](https://egghead.io/courses/functional-programming-concepts-in-purescript)
 - [Guide - Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen)
 
 ## Discovery
@@ -131,7 +131,7 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 
 ## More Resources
 
-- [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries.
+- [PureScript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries.
 
 ## Contribute
 
